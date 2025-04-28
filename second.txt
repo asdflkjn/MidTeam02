@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfsffafasdfafsdfa
+=======
+second hi
+>>>>>>> b6e77db7400d2a5de892dd7ff82c74c5b3132abe
